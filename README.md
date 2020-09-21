@@ -2,7 +2,7 @@
 
 Here is clip for generate Favicon tags for many devices for the new IDE - [Nova](https://nova.app/). It's great way for generate more than 20 tags in one click.
 
-![Favicon Tags Clip for Nova](https://github.com/PerfectoWeb/Favicon-Nova-Theme/raw/master/example_preview.png)
+![Favicon Tags Clip for Nova](https://github.com/PerfectoWeb/Favicon-Nova-Clip/raw/master/example_preview.png)
 
 ## Inspiration
 Inspired by Real Favicon Generator
