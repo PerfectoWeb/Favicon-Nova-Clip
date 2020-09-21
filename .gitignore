@@ -2,7 +2,7 @@
 *.sql
 *.sql.gz
 *.sqlite
-#.gitignore
+.gitignore
 .gitattributes
 .DS_Store
 .Spotlight-V100
