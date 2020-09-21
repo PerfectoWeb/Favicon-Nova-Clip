@@ -16,6 +16,8 @@ You spent time to search documentations for any actual platform to make multi-pl
 - No hard decision
 - No Google search :)
 
+![Favicon Tags Clip Supported](https://github.com/PerfectoWeb/Favicon-Nova-Clip/raw/master/example_support.png)
+
 ## Installation
 If you're a proud owner of [Nova](https://panic.com/nova), you ought to be able to go to **Extensions > Extensions Library > Clips (tab)** and pick the clip from there.
 
