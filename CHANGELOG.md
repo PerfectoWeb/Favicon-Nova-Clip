@@ -1,3 +1,7 @@
+## Version 1.0.3
+
+- Update repository issues section
+
 ## Version 1.0.2
 
 - Added tags for macOS Safari
