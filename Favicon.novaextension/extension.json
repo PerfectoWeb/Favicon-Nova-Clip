@@ -1,0 +1,13 @@
+{
+    "identifier": "perfectoweb.favicon",
+    "name": "Favicon",
+    "vendor": "David Petrosyan",
+    "organization": "PerfectoWeb",
+    "description": "A simple way to generate favicon tags for many platforms.",
+    "version": "1.0",
+    "homepage": "https://github.com/PerfectoWeb/Favicon-Nova-Clip",
+    "bugs": "https://github.com/PerfectoWeb/Favicon-Nova-Clip",
+    "license": "MIT",
+    "categories": ["clips"],
+    "keywords": ["html", "favicon", "meta"],
+}
