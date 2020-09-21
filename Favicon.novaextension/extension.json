@@ -4,7 +4,7 @@
     "vendor": "David Petrosyan",
     "organization": "PerfectoWeb",
     "description": "A simple way to generate favicon tags for many platforms.",
-    "version": "1.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/PerfectoWeb/Favicon-Nova-Clip",
     "bugs": "https://perfecto-web.com/",
     "license": "MIT",
