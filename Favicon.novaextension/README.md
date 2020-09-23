@@ -1,6 +1,6 @@
 # Favicon Tags for Nova
 
-This is a clip for generate Favicon tags for many devices for the new IDE - [Nova](https://nova.app/). It's great way for generate more than 20 tags in one click.
+This is a clip for generate Favicon tags for many devices for the new IDE - [Nova](https://nova.app/). It's great way for generate more than 30 tags in one click.
 
 You spent time to search documentations for any actual platform to make multi-platform favicon and html meta tags. How much time left for the cross-platform favicon? Probably not much. But no worries, you only need a one click to tackle this task.
 

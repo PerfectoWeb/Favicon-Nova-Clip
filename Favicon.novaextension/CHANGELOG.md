@@ -1,3 +1,11 @@
+## Version 1.1
+
+- Added `apple-touch-icon` with size `120x120`
+- Added `msapplication-TileImage` for Windows tiles
+- Added `application-name` for Windows 8 tiles
+- Added `msapplication` tags for Internet Explorer 11 Tiles
+- Added PNG favicons with different sizes for different search engines
+
 ## Version 1.0.3
 
 - Update repository issues section
