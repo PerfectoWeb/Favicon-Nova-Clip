@@ -1,3 +1,7 @@
+## Version 1.2
+
+- Added donation button
+
 ## Version 1.1
 
 - Added `apple-touch-icon` with size `120x120`
