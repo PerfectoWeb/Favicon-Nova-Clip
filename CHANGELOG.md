@@ -1,6 +1,7 @@
 ## Version 1.3
 
 - Added tags for [Open Graph](https://ogp.me/) protocol
+- Added hot key `Cmd+Alt+Ctrl+F`
 
 ## Version 1.2.1
 
