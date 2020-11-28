@@ -1,3 +1,7 @@
+## Version 1.3
+
+- Added tags for [Open Graph](https://ogp.me/) protocol
+
 ## Version 1.2.1
 
 - Update donation info. Give me a cup of 🍺
